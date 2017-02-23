@@ -17,3 +17,14 @@
 ### 感谢
 	+ 1 感谢 提供这套后台模板的网页
 	+ 2 感谢 群里给我提建议的网友
+
+
+### 页面预览
+	
+
++ 后台登录
+	![](http://qn.yun.u8code.org/statics/images/phpcms-login-0223.png)
+	
++ 后台首页
+	![](http://qn.yun.u8code.org/statics/images/phpcms-welcome-0223.png)
+

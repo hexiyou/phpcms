@@ -28,3 +28,7 @@
 + 后台首页
 	![](http://qn.yun.u8code.org/statics/images/phpcms-welcome-0223.png)
 
+
+### 完善PHPCMS
+	如发现有漏洞，可以提交 问题给 林大雪 mrlindaxue@sina.com 谢谢支持
+	
